@@ -416,3 +416,7 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+src/WebApi/bin
+src/WebApi/obj
+src/WebApiFail/bin
+src/WebApiFail/obj
